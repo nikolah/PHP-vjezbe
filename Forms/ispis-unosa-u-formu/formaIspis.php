@@ -10,7 +10,7 @@
 //		RIJEŠENO!
 // ZADATAK2: brojač reloada (VAŽNO - da od prvog otvaranja filea ne javlja grešku o nepoznatoj varijabli) - RIJEŠENO!
 // ZADATAK3: napraviti stvarni kalkulator potencije brojeva i eksponenta do 9 - RIJEŠENO!
-// ZADATAK4: povuć sve na Git
+
 
 session_start();	
 ?>
